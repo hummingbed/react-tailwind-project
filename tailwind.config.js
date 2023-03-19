@@ -13,7 +13,11 @@ content: ["./src/**/*.{html,js}"],
       fontFamily: {
         'nunito': ['Nunito'],
         
-      }
+      },
+      screens: {
+        'xm': '250px',
+        
+      },
     },
   },
   plugins: [],
